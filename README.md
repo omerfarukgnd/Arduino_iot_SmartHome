@@ -1,2 +1,2 @@
 # Arduino_iot_SmartHome
-This project was made with Arduino Mega
+Smart House was built with Arduino Mega and Blynk
